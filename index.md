@@ -1,8 +1,20 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
 ---
+# Assaisonnee
 
-# L'Échappée Belle
+Découvrir, partager, manger.
+Alimentation végétal, respectueuse des personnes et de l'environnement.
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+## Un projet en cours
+Mycéliem : lieu de fermentation, brewpub, kombucherie et restaurant 
+
+## Un service de traiteur
+
+A la maison, pour les événements, pour les séminaire d'équipes
+Pour les événements particulier
+Entre amis, avec ses collègues ou en famille
+
+## Un lieu d'expérimentation
+Je teste, je montre et je partage autant les succès que les choses un peu moins 
