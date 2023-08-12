@@ -1,6 +1,6 @@
 ---
 title: "Traiteur"
-order: 4
+order: 2
 ---
 Pour qui ?
 
