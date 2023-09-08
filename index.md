@@ -17,4 +17,4 @@ Pour les événements particulier
 Entre amis, avec ses collègues ou en famille
 
 ## Un lieu d'expérimentation
-Je teste, je montre et je partage autant les succès que les choses un peu moins 
+Je teste, je montre et je partage autant mes succès que les expériences qui n'ont pas eu le choix escomptés. 
