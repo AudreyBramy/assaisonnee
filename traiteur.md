@@ -1,6 +1,6 @@
 ---
 title: "Traiteur"
-order: 2
+order: 1
 ---
 Je vous propose un service de traiteur sur place ou en livraison pour tous types d'événements. Je m'occupe de toute la restauration pour vous permettre de vous concentrer au mieux sur le contenu de votre événements.
 
