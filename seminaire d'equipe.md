@@ -1,5 +1,4 @@
 ---
 title: "Séminaire d'équipe"
-order: 5
+order: 2
 ---
- 
