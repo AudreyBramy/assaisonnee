@@ -10,10 +10,13 @@ Je vous propose un service de traiteur sur place ou en livraison pour tous types
 Vous êtes une équipe de travail, une entreprise, une association, un groupe de personnes qui travaillez la majorité du temps et à distance et vous souhaitez vous retrouver en présentiel pour une certaine durée dans un lieu que vous louez. Je peux cuisiner directement sur place* ou en livrant les repas (dépendant du lieu de rencontre).
 
 #### - pour des événements exceptionnels
-Pour des anniversaire, mariages, fêtes variées, nous vous de rendre inexpérience culinaire de vos convives mémorables. 
+Pour des anniversaire, mariages, fêtes variées, nous vous de rendre inexpérience culinaire de vos convives mémorables.
+![Texte décrivant l'image](/images/IMG_4382.JPG) 
 
 #### - pour des repas à la maison comme au restaurant
 Nous vous proposons un service de chef à domicile avec une expérience comme au restaurant.
+
+![Texte décrivant l'image](/images/signal-2023-08-16-123955_005.jpeg)
 
 Notre service de traiteur ne se limite pas à la préparation de délicieux repas. Nous pouvons vous offrir un service complet, y compris la mise en place des tables, la gestion du service pendant l'événement, et même le nettoyage après. Vous n'aurez à vous soucier de rien.
 
