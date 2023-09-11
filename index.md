@@ -4,6 +4,8 @@ order: 0
 ---
 # Assaisonnee
 
+![Texte décrivant l'image](/images/grandlogocouleur.png)
+
 Découvrir, partager, manger.
 Alimentation végétal, respectueuse des personnes et de l'environnement.
 
