@@ -2,7 +2,7 @@
 title: "Contact"
 order: 3
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
+[Mon compte instagram](https://www.instagram.com/as.saison.nee/)
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour me contacter par mail : [assaisonnee@protonmail.com](assaisonnee@protonmail.com)
+` 
