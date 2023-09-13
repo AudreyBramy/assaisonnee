@@ -2,11 +2,10 @@
 title: "Accueil"
 order: 0
 ---
-# Assaisonnee
+![Logo en couleur](/images/logo_long_couleur.png)
 
-![Texte décrivant l'image](/images/grandlogocouleur.png)
+Découvrir, partager et manger.
 
-Découvrir, partager, manger.
 Alimentation végétal, respectueuse des personnes et de l'environnement.
 
 ## Un projet en cours
