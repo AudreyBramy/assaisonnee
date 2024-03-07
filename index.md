@@ -4,7 +4,7 @@ order: 0
 ---
 # Cuisine Végétale et Engagée
 
-![image d'un buffet](/images/buffet.jpg)
+![image d'un buffet](/images/boire.jpg)
 
 Découvrir, partager et manger.
 
