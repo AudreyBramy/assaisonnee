@@ -2,7 +2,6 @@
 title: "Contact"
 order: 3
 ---
-[Mon compte instagram](https://www.instagram.com/as.saison.nee/)
+[Notre compte instagram](https://www.instagram.com/mycelium.mtp/)
 
-Pour me contacter par mail : [assaisonnee@protonmail.com](assaisonnee@protonmail.com)
-` 
+Pour me contacter par mail : [audrey@mycetraiteur.fr](audrey@mycetraiteur.fr)

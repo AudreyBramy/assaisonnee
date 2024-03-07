@@ -7,7 +7,7 @@ Je vous propose un service **de traiteur sur place ou en livraison** pour tous t
 ### A qui est-ce que je m'adresse ?
 
 #### ~ pour des rencontres de travail sur une ou plusieurs journées
-Vous êtes une équipe de travail, une entreprise, une association, un groupe de personnes qui travaillez la majorité du temps et à distance et vous souhaitez vous retrouver en présentiel pour une certaine durée dans un lieu que vous louez. Je peux cuisiner directement sur place* ou en livrant les repas (dépendant du lieu de rencontre).
+Vous êtes une équipe de travail, une entreprise, une association, un groupe de personnes qui travaillez la majorité du temps et à distance et vous souhaitez vous retrouver en présentiel pour une certaine durée dans un lieu que vous louez. Je peux cuisiner directement sur place ou en livraisons.
 
 #### ~ pour des événements exceptionnels
 Pour des anniversaire, mariages, fêtes variées, nous vous de rendre inexpérience culinaire de vos convives mémorables.
